@@ -1,5 +1,5 @@
 # 2048
-A small clone of 2048-multiplayer, based on [mil's (also a clone).
+A small clone of 2048-multiplayer, based on Emil's (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
