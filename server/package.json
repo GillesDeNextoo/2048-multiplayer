@@ -1,12 +1,13 @@
 {
   "name": "multi-2048",
   "version": "0.0.1",
-  "author": "Emil Stolarsky",
+  "author": "Emil Stolarsky & Gilles de Nextoo",
   "description": "2048 the game - multiplayer version",
   "contributors": [
     {
       "name": "Emil Stolarsky",
       "email": "emil.stolarsky@gmail.com"
+      "name": "Gilles de Nextoo"
     }
   ],
   "scripts": {
